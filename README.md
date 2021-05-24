@@ -1,9 +1,7 @@
 # angular-nodejs
 
-# AngularNodejsExample
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão  12.0.1.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
+## server
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Execute `npm run start` para um servidor de desenvolvimento. Navegue até `http: // localhost: 4200 /`.
